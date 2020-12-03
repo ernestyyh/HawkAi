@@ -1,0 +1,775 @@
+Market Street Interim Hawker Centre
+5 Cross Street Market Street Interim Hawker Centre
+048418
+1.28159602980759
+103.848878196508
+China Square Food Centre
+51 Telok Ayer Street China Square Food Centre
+048441
+1.28286636225754
+103.849289233227
+People'S Park Food Centre
+32 New Market Road People'S Park Food Centre
+050032
+1.28497943108468
+103.842567680830
+Hong Lim Food Centre And Market
+531A Upper Cross Street Hong Lim Food Centre And Market
+051531
+1.28532379322675
+103.845776735598
+Amoy Street Food Centre
+7 Maxwell Road Amoy Street Food Centre
+069111
+1.27933986365712
+103.846652482254
+Maxwell Food Centre
+1 Kadayanallur Street Maxwell Food Centre
+069184
+1.28033142727317
+103.844747227479
+Maxwell Road Food Centre
+1 Kadayanallur Street Maxwell Road Food Centre
+069184
+1.28053790831337
+103.844474807265
+Market & Hawker Centre (Blk 6 Tanjong Pagar Plaza)
+6 Tanjong Pagar Plaza Market & Hawker Centre (Blk 6 Tanjong Pagar Plaza)
+081006
+1.27661464758772
+103.843167023188
+Market & Hawker Centre (Blk 11 Telok Blangah Crescent)
+11 Telok Blangah Crescent Market & Hawker Centre (Blk 11 Telok Blangah Crescent)
+090011
+1.27736813225764
+103.818651524334
+Kusu Island Hawker Centre
+30 Kusu Island Kusu Island Hawker Centre
+098063
+1.22321808290997
+103.860916792945
+Seah Im Food Centre
+2 Seah Im Road Seah Im Food Centre
+099114
+1.2665681322508
+103.819248035765
+Telok Blangah Food Centre
+79 Telok Blangah Drive Telok Blangah Food Centre
+100079
+1.27335597437749
+103.807618048888
+Pasir Panjang Food Centre
+121 Pasir Panjang Road Pasir Panjang Food Centre
+118543
+1.27591797439294
+103.791410908656
+Clementi Ave 2 Market/Cooked Food Centre
+353 Clementi Avenue 2 Clementi Ave 2 Market/Cooked Food Centre
+120353
+1.31437328536734
+103.770805494512
+Market & Hawker Centre (Blk 353 Clementi Ave 2)
+353 Clementi Avenue 2 Market & Hawker Centre (Blk 353 Clementi Ave 2)
+120353
+1.31437917978958
+103.770919561136
+Market & Hawker Centre (Blk 448 Clementi Avenue 3)
+448 Clementi Avenue 3 Market & Hawker Centre (Blk 448 Clementi Avenue 3)
+120448
+1.31331969292273
+103.764517192874
+Ayer Rajah Food Centre
+503 West Coast Drive Ayer Rajah Food Centre
+120503
+1.31180308926426
+103.759751405542
+Market & Hawker Centre (Blk 726 Clementi West Street 2)
+726 Clementi West Street 2 Market & Hawker Centre (Blk 726 Clementi West Street 2)
+120726
+1.3038107318413
+103.764250748436
+Food Centre
+101 Pandan Loop Food Centre
+126904
+1.31158854602969
+103.754446884306
+Food Centre
+178 Pandan Loop Food Centre
+128370
+1.30966614170908
+103.75607838736
+Temporary Food Centre
+11A Nepal Circus Temporary Food Centre
+138660
+1.30042927069744
+103.787234332461
+Ayer Rajah Food Centre 3
+51A Ayer Rajah Crescent Ayer Rajah Food Centre 3
+139956
+1.29349975656578
+103.788523122911
+Ayer Rajah Food Centre 1
+73A Ayer Rajah Crescent Ayer Rajah Food Centre 1
+139957
+1.29741124785601
+103.787526314396
+Tanglin Halt Food Centre
+1A Commonwealth Drive Tanglin Halt Food Centre
+141001
+1.29973071571153
+103.797835538253
+Tanglin Halt Food Centre
+2A Commonwealth Drive Tanglin Halt Food Centre
+141002
+1.29946317574662
+103.797838391976
+Tanglin Halt Food Centre
+3A Commonwealth Drive Tanglin Halt Food Centre
+141003
+1.29960011850841
+103.798065784505
+Dawson Hawker Centre(U/C)
+38A Margaret Drive Dawson Hawker Centre(U/C)
+142038
+1.29742585102205
+103.804710471304
+Abc Brickworks Market & Food Centre
+6 Jalan Bukit Merah Abc Brickworks Market & Food Centre
+150006
+1.2868829726148
+103.808131274161
+Redhill Food Centre
+85 Redhill Lane Redhill Food Centre
+150085
+1.28730751501555
+103.818311195035
+Alexandra Village Food Centre
+120 Bukit Merah Lane 1 Alexandra Village Food Centre
+150120
+1.28630594246765
+103.80449263792
+Bukit Merah Central Food Centre
+163 Bukit Merah Central Bukit Merah Central Food Centre
+150163
+1.28370220959753
+103.816949612508
+Market & Hawker Centre (Blk 115 Bukit Merah View)
+115 Bukit Merah View Market & Hawker Centre (Blk 115 Bukit Merah View)
+151115
+1.28550445540063
+103.821823255543
+Ikea Food Centre
+317 Alexandra Road Ikea Food Centre
+159965
+1.28797431886604
+103.805808771913
+Market & Hawker Centre (Blk 112 Jalan Bukit Merah)
+112 Jalan Bukit Merah Market & Hawker Centre (Blk 112 Jalan Bukit Merah)
+160112
+1.28000480135125
+103.82601329621
+Hawker Centre (Blk 1 Jalan Kukoh)
+1 Jalan Kukoh Hawker Centre (Blk 1 Jalan Kukoh)
+161001
+1.28823101528052
+103.839934168065
+Kukoh 21 Food Centre
+1 Jalan Kukoh Kukoh 21 Food Centre
+161001
+1.28825209188556
+103.839940269227
+Havelock Road Cooked Food Centre
+22A Havelock Road Havelock Road Cooked Food Centre
+161022
+1.28797050699109
+103.829623413554
+Havelock Road Cooked Food Centre
+22B Havelock Road Havelock Road Cooked Food Centre
+162022
+1.28775546193799
+103.829362888759
+Tiong Bahru Food Centre
+1091A Lower Delta Road Tiong Bahru Food Centre
+169207
+1.28144932913952
+103.823213412503
+Albert Centre Market & Food Centre
+270 Queen Street Albert Centre Market & Food Centre
+180270
+1.30100149635859
+103.854211650138
+North Bridge Road Market And Food Centre
+861 North Bridge Road North Bridge Road Market And Food Centre
+198783
+1.30614080746522
+103.864099281276
+Golden Mile Food Centre
+505 Beach Road Golden Mile Food Centre
+199583
+1.30314163330871
+103.863877583784
+Berseh Food Centre
+166 Jalan Besar Berseh Food Centre
+208877
+1.30734410946374
+103.856888783769
+Pek Kio Market & Food Centre
+41A Cambridge Road Pek Kio Market & Food Centre
+211041
+1.31613128002087
+103.850232935434
+Environment Building Hawker Centre
+40 Scotts Road Environment Building Hawker Centre
+228231
+1.31081071250879
+103.836487736076
+Hawkers Department
+40 Scotts Road Hawkers Department
+228231
+1.31072557410013
+103.836318553503
+Newton Food Centre
+500 Clemenceau Avenue North Newton Food Centre
+229495
+1.31191552031278
+103.839569728721
+Zion Riverside Food Centre
+70 Zion Road Zion Riverside Food Centre
+247792
+1.29234223167719
+103.831189302665
+Empress Road Market And Food Centre
+7 Empress Road Empress Road Market And Food Centre
+260007
+1.31624052933146
+103.805636700669
+Market & Hawker Centre (Blk 20 Ghim Moh Road)
+20 Ghim Moh Road Market & Hawker Centre (Blk 20 Ghim Moh Road)
+270020
+1.31099663218897
+103.78823030662
+Holland Drive Market And Food Centre
+44 Holland Drive Holland Drive Market And Food Centre
+270044
+1.30811779933871
+103.792773766893
+Holland Village Market & Food Centre
+1 Lorong Mambong Holland Village Market & Food Centre
+277700
+1.31107310377437
+103.794876657908
+Adam Food Centre
+2 Adam Road Adam Food Centre
+289876
+1.3241598525956
+103.814165924136
+Adam Road Food Centre
+2 Adam Road Adam Road Food Centre
+289876
+1.32408271396254
+103.814182099841
+Kim Keat Palm Market And Food Centre
+22 Lorong 7 Toa Payoh Kim Keat Palm Market And Food Centre
+310022
+1.3353826133378
+103.857003709119
+Hawker Centre (Blk 75 Toa Payoh Lorong 5)
+75 Lorong 5 Toa Payoh Hawker Centre (Blk 75 Toa Payoh Lorong 5)
+310075
+1.33602076766204
+103.852956988062
+Market & Hawker Centre (Blk 93 Toa Payoh Lorong 4)
+93 Lorong 4 Toa Payoh Market & Hawker Centre (Blk 93 Toa Payoh Lorong 4)
+310093
+1.33847469611074
+103.849513448853
+Blk 210 Lorong 8 Toa Payoh Market & Food Centre
+210 Lorong 8 Toa Payoh Blk 210 Lorong 8 Toa Payoh Market & Food Centre
+310210
+1.34021600857627
+103.85487256444
+Market & Hawker Centre (Blk 210 Toa Payoh Lorong 8 )
+210 Lorong 8 Toa Payoh Market & Hawker Centre (Blk 210 Toa Payoh Lorong 8 )
+310210
+1.34025208908836
+103.854333833433
+Market & Hawker Centre (Blk 210 Toa Payoh Lorong 8)
+210 Lorong 8 Toa Payoh Market & Hawker Centre (Blk 210 Toa Payoh Lorong 8)
+310210
+1.34026104618812
+103.854395759138
+Toa Payoh Food Centre Ii
+1008A Toa Payoh North Toa Payoh Food Centre Ii
+318998
+1.34329291247586
+103.846448400562
+Bendemeer Market And Food Centre
+29 Bendemeer Road Bendemeer Market And Food Centre
+330029
+1.31921667890115
+103.863020922594
+Geylang Bahru Market And Food Centre
+69 Geylang Bahru Geylang Bahru Market And Food Centre
+330069
+1.32146311046782
+103.870005014547
+Food Centre
+5 Kallang Place Food Centre
+339152
+1.31727445408718
+103.867560300294
+Food Centre
+26A Kallang Place Food Centre
+339212
+1.31592297235376
+103.86703844866
+Food Centre
+998 Bendemeer Road Food Centre
+339945
+1.31958274807253
+103.865943573243
+Food Centre
+155A Kallang Way Food Centre
+349254
+1.32170881074078
+103.876073206643
+Broadway Food Centre
+147 Potong Pasir Avenue 1 Broadway Food Centre
+350147
+1.33189434532344
+103.867853678364
+Hawker Centre (Blks 79/79A Circuit Road)
+79 Circuit Road Hawker Centre (Blks 79/79A Circuit Road)
+370079
+1.32659705059871
+103.885052281112
+Circuit Road Market And Food Centre
+80 Circuit Road Circuit Road Market And Food Centre
+370080
+1.32783414615939
+103.887102669236
+Market & Hawker Centre (Blk 89 Circuit Road)
+89 Circuit Road Market & Hawker Centre (Blk 89 Circuit Road)
+370089
+1.32357971400585
+103.885438842202
+Hawker Centre (Blks 79/79A Circuit Road)
+79A Circuit Road Hawker Centre (Blks 79/79A Circuit Road)
+371079
+1.32550690557409
+103.884919751886
+Upper Boon Keng Market And Food Centre
+17 Upper Boon Keng Road Upper Boon Keng Market And Food Centre
+380017
+1.31502843403456
+103.871620438498
+Sims Vista Market And Food Centre
+49 Sims Place Sims Vista Market And Food Centre
+380049
+1.31703502347953
+103.879309854502
+Market & Hawker Centre (Blk 117 Aljunied Ave 2)
+117 Aljunied Avenue 2 Market & Hawker Centre (Blk 117 Aljunied Ave 2)
+380117
+1.32064636781985
+103.88702414
+51 Old Airport Road Food Centre And Shopping Mall
+51 Old Airport Road 51 Old Airport Road Food Centre And Shopping Mall
+390051
+1.30825184712873
+103.885808705818
+Kallang Estate Fresh Market And Food Centre
+17 Old Airport Road Kallang Estate Fresh Market And Food Centre
+397972
+1.30734401435064
+103.884018300106
+Market & Hawker Centre (Blk 4A Eunos Crescent)
+4A Eunos Crescent Market & Hawker Centre (Blk 4A Eunos Crescent)
+402004
+1.32033126010099
+103.904256478426
+Food Centre
+26 Eunos Road 2 Food Centre
+409386
+1.32290448494295
+103.899152141817
+Dunman Food Centre
+271 Onan Road Dunman Food Centre
+424768
+1.30941782820788
+103.901825398979
+Haig Road Market And Cooked Food Centre
+13 Haig Road Haig Road Market And Cooked Food Centre
+430013
+1.31510752106277
+103.895587944619
+Market & Hawker Centre (Blks 13/14 Haig Road)
+13 Haig Road Market & Hawker Centre (Blks 13/14 Haig Road)
+430013
+1.31514204972285
+103.895609544204
+Haig Road Market And Cooked Food Centre
+14 Haig Road Haig Road Market And Cooked Food Centre
+430014
+1.31542509324917
+103.895479253328
+Jalan Batu Hawker Centre
+4A Jalan Batu Jalan Batu Hawker Centre
+432004
+1.30236034827102
+103.883909473726
+Marine Parade Central Market And Food Centre
+84 Marine Parade Central Marine Parade Central Market And Food Centre
+440084
+1.30228520823381
+103.906338595442
+Market & Hawker Centre (Blk 50A Marine Terrace)
+50A Marine Terrace Market & Hawker Centre (Blk 50A Marine Terrace)
+441050
+1.30572973564546
+103.915737035334
+East Coast Seafood Centre
+1202 East Coast Parkway East Coast Seafood Centre
+449881
+1.30510343477019
+103.929802719391
+East Coast Seafood Centre
+1206 East Coast Parkway East Coast Seafood Centre
+449883
+1.30524568309754
+103.930539926216
+Market & Hawker Centre (Blk 16 Bedok South Road )
+16 Bedok South Road Market & Hawker Centre (Blk 16 Bedok South Road )
+460016
+1.32055221938712
+103.935539171613
+Market & Hawker Centre (Blk 16 Bedok South Road)
+16 Bedok South Road Market & Hawker Centre (Blk 16 Bedok South Road)
+460016
+1.32050083785246
+103.93547363702
+Market & Hawker Centre (Blk 216 Bedok North Street 1)
+216 Bedok North Street 1 Market & Hawker Centre (Blk 216 Bedok North Street 1)
+460216
+1.32706274205749
+103.933217970746
+Kaki Bukit 511 Market And Food Centre
+511 Bedok North Street 3 Kaki Bukit 511 Market And Food Centre
+460511
+1.33321993297268
+103.930581522776
+Market & Hawker Centre (Blk 538 Bedok North Street 3)
+538 Bedok North Street 3 Market & Hawker Centre (Blk 538 Bedok North Street 3)
+460538
+1.33206727712282
+103.924621314971
+Market & Hawker Centre (Blk 58 New Upper Changi Road)
+58 New Upper Changi Road Market & Hawker Centre (Blk 58 New Upper Changi Road)
+461058
+1.32420087334005
+103.941125277547
+Bedok Interchange Hawker Centre
+208B New Upper Changi Road Bedok Interchange Hawker Centre
+462208
+1.32481816551891
+103.930544296289
+Hawker Centre (Blk 208B New Upper Changi Road)
+208B New Upper Changi Road Hawker Centre (Blk 208B New Upper Changi Road)
+462208
+1.3247823698563
+103.930570304559
+Bedok Food Centre
+1 Bedok Road Bedok Food Centre
+469572
+1.32034716669857
+103.955480577498
+Market & Hawker Centre (Blks 2 & 3 Changi Village Road)
+2 Changi Village Road Market & Hawker Centre (Blks 2 & 3 Changi Village Road)
+500002
+1.38915166172557
+103.988245236848
+Market & Hawker Centre (Blks 2 & 3 Changi Village Road)
+3 Changi Village Road Market & Hawker Centre (Blks 2 & 3 Changi Village Road)
+500003
+1.38965834308068
+103.988091826679
+Pasir Ris Central Hawker Centre
+110 Pasir Ris Central Pasir Ris Central Hawker Centre
+519641
+1.37347252064328
+103.951571342467
+Tampines Round Market And Food Centre
+137 Tampines Street 11 Tampines Round Market And Food Centre
+521137
+1.34537347373751
+103.944629422828
+Our Tampines Hub Hawker Centre
+1 Tampines Walk Our Tampines Hub Hawker Centre
+528523
+1.35354740485206
+103.940381104547
+Food Centre
+107 Hougang Avenue 1 Food Centre
+530107
+1.35341697831366
+103.89068821489
+Kovan Hougang Market And Food Centre
+209 Hougang Street 21 Kovan Hougang Market And Food Centre
+530209
+1.35908384091051
+103.886055367792
+Food Centre
+159A Hougang Street 11 Food Centre
+531159
+1.35209060355778
+103.879314590828
+Food Centre
+435A Hougang Avenue 8 Food Centre
+531435
+1.37768719580771
+103.893997600765
+Lai Lai Hup Kee Food Centre
+1024 Tai Seng Avenue Lai Lai Hup Kee Food Centre
+534414
+1.33545715367212
+103.892292613786
+Food Centre
+1010 Tai Seng Avenue Food Centre
+534417
+1.33859677247016
+103.891354192051
+Ci Yuan Hawker Centre
+51 Hougang Avenue 9 Ci Yuan Hawker Centre
+538776
+1.3754290157886
+103.882977997705
+Chomp Chomp Food Centre
+20 Kensington Park Road Chomp Chomp Food Centre
+557269
+1.36423252476889
+103.86652701738
+Mayflower Market And Food Centre
+160 Ang Mo Kio Avenue 4 Mayflower Market And Food Centre
+560160
+1.37452773784115
+103.839176060905
+Mayflower Market And Food Centre
+162 Ang Mo Kio Avenue 4 Mayflower Market And Food Centre
+560162
+1.37410757020162
+103.838863921122
+Market & Hawker Centre (Blk 409 Ang Mo Kio Ave 10)
+409 Ang Mo Kio Avenue 10 Market & Hawker Centre (Blk 409 Ang Mo Kio Ave 10)
+560409
+1.36265410749323
+103.855288297631
+Cheng San Market And Cooked Food Centre
+527 Ang Mo Kio Avenue 10 Cheng San Market And Cooked Food Centre
+560527
+1.37277209248009
+103.854457955288
+Market & Hawker Centre (Blk 724 Ang Mo Kio Ave 6)
+724 Ang Mo Kio Avenue 6 Market & Hawker Centre (Blk 724 Ang Mo Kio Ave 6)
+560724
+1.37217258545173
+103.846510310474
+Chong Boon Market And Food Centre
+453A Ang Mo Kio Avenue 10 Chong Boon Market And Food Centre
+561453
+1.36824778905025
+103.856361649863
+Kebun Baru Market And Food Centre
+226D Ang Mo Kio Avenue 1 Kebun Baru Market And Food Centre
+564226
+1.36681000469507
+103.839142557804
+Kebun Baru Food Centre
+226H Ang Mo Kio Street 22 Kebun Baru Food Centre
+568226
+1.36717874094698
+103.840157741978
+Food Centre
+4011 Ang Mo Kio Avenue 10 Food Centre
+569627
+1.36054367053414
+103.856853331171
+Food Centre
+4013 Ang Mo Kio Industrial Park 1 Food Centre
+569629
+1.35856243143992
+103.854927551927
+Market & Hawker Centre (Blk 320 Shunfu Road)
+320 Shunfu Road Market & Hawker Centre (Blk 320 Shunfu Road)
+570320
+1.35200745401593
+103.837031862103
+Food Centre
+504 Bishan Street 11 Food Centre
+570504
+1.34926636256375
+103.848643809529
+Sembawang Hills Food Centre
+590 Upper Thomson Road Sembawang Hills Food Centre
+574419
+1.37231949569919
+103.829018152432
+Yuhua Village Market And Food Centre
+254 Jurong East Street 24 Yuhua Village Market And Food Centre
+600254
+1.34348813100528
+103.737738395242
+Yuhua Market & Hawker Centre
+347 Jurong East Avenue 1 Yuhua Market & Hawker Centre
+600347
+1.34541449597803
+103.731703441644
+Yuhua Market And Hawker Centre
+347 Jurong East Avenue 1 Yuhua Market And Hawker Centre
+600347
+1.3453125328414
+103.731579765339
+Teban Gardens Market And Food Centre
+37A Teban Gardens Road Teban Gardens Market And Food Centre
+601037
+1.32083109341426
+103.742748119377
+Food Centre
+28F Penjuru Close Food Centre
+609134
+1.31297406960495
+103.732022750122
+Taman Jurong Market & Food Centre
+3 Yung Sheng Road Taman Jurong Market & Food Centre
+618499
+1.33472109247051
+103.721583783851
+Quality Road Food Centre
+45 Quality Road Quality Road Food Centre
+618824
+1.33324286138107
+103.710488317075
+Jurong Port Road Food Centre
+27A Jurong Port Road Jurong Port Road Food Centre
+619101
+1.31567131915095
+103.72037453514
+Food Centre
+32 Pioneer Sector 2 Food Centre
+628388
+1.30619186768157
+103.657521206381
+Food Centre
+51 Pioneer Sector 1 Food Centre
+628437
+1.30255821744204
+103.655161492019
+Food Centre
+7 Joo Koon Way Food Centre
+628945
+1.32494772155429
+103.669410863159
+Food Centre
+60 Gul Lane Food Centre
+629437
+1.3140912224664
+103.662219932435
+Food Centre
+2 Benoi Place Food Centre
+629924
+1.31317396729644
+103.679220009312
+Food Centre
+29 Tuas West Avenue Food Centre
+638427
+1.33186870022574
+103.638153258057
+Food Centre
+21 Tuas Avenue 13 Food Centre
+638988
+1.32230421877342
+103.640151148229
+Food Centre
+18 Tuas Avenue 7 Food Centre
+639272
+1.3332045197605
+103.644618898841
+Food Centre
+71 Tuas Avenue 1 Food Centre
+639511
+1.32955414747745
+103.652239190789
+Market & Hawker Centre (Blk 505 Jurong West Street 52)
+505 Jurong West Street 52 Market & Hawker Centre (Blk 505 Jurong West Street 52)
+640505
+1.34965729130749
+103.718443677825
+Jurong West Hawker Centre
+50 Jurong West Street 61 Jurong West Hawker Centre
+648202
+1.34126410393954
+103.697241852189
+Bukit Panjang Hawker Centre
+2 Bukit Panjang Ring Road Bukit Panjang Hawker Centre
+679947
+1.37759748604712
+103.772491491932
+Food Centre
+49 Sungei Kadut Street 4 Food Centre
+729063
+1.42223737999977
+103.74951636249
+Market & Hawker Centre (Blks 20/21 Marsiling Lane)
+20 Marsiling Lane Market & Hawker Centre (Blks 20/21 Marsiling Lane)
+730020
+1.44344416787523
+103.776989477833
+Marsiling Lane Market & Cooked Food Centre
+20 Marsiling Lane Marsiling Lane Market & Cooked Food Centre
+730020
+1.44341624291827
+103.777006103758
+Market & Hawker Centre (Blks 20/21 Marsiling Lane)
+21 Marsiling Lane Market & Hawker Centre (Blks 20/21 Marsiling Lane)
+730021
+1.44383165244265
+103.777210383669
+Marsiling Lane Market & Cooked Food Centre
+21 Marsiling Lane Marsiling Lane Market & Cooked Food Centre
+730021
+1.4439249818869
+103.77720197506
+Kampung Admiralty Hawker Centre
+676 Woodlands Drive 71 Kampung Admiralty Hawker Centre
+730676
+1.43991608263417
+103.800701203964
+Admiralty Wet Market & Food Centre
+678A Woodlands Avenue 6 Admiralty Wet Market & Food Centre
+731678
+1.44036367556378
+103.801537354932
+Marsiling Mall Hawker Centre
+4 Woodlands Street 12 Marsiling Mall Hawker Centre
+738623
+1.43354318137537
+103.77988189197
+Chong Pang Market & Food Centre
+104 Yishun Ring Road Chong Pang Market & Food Centre
+760104
+1.43144775158987
+103.828537671885
+Chong Pang Market & Food Centre
+105 Yishun Ring Road Chong Pang Market & Food Centre
+760105
+1.4317183666284
+103.828114256975
+Yishun Park Hawker Centre
+51 Yishun Avenue 11 Yishun Park Hawker Centre
+768867
+1.42498786287367
+103.844747525064
+Market & Food Centre
+198 Punggol Field Market & Food Centre
+820198
+1.39946295698555
+103.906402433518
